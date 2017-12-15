@@ -1,0 +1,23 @@
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\bin\Debug\PuzzleCountry.exe.config
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\bin\Debug\PuzzleCountry.exe
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\bin\Debug\PuzzleCountry.pdb
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.csprojResolveAssemblyReference.cache
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Form1.resources
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Form2.resources
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Properties.Resources.resources
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.csproj.GenerateResource.Cache
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.csproj.CoreCompileInputs.cache
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.exe
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.pdb
+c:\users\windows 10\source\repos\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Form3.resources
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\bin\Debug\PuzzleCountry.exe.config
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\bin\Debug\PuzzleCountry.exe
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\bin\Debug\PuzzleCountry.pdb
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Form1.resources
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Form2.resources
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Form3.resources
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.Properties.Resources.resources
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.exe
+C:\Users\USER\Desktop\PuzzleCountry\PuzzleCountry\PuzzleCountry\obj\Debug\PuzzleCountry.pdb
